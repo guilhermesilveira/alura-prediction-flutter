@@ -1,6 +1,6 @@
 # Mágica com Flutter
 
-Se você não quer entender como funciona essa mágica, não leia use esse projeto :)
+Se você não quer entender como funciona essa mágica, não use esse projeto :)
 
 ## Motivação
 
@@ -11,6 +11,8 @@ Que maneira mais divertida de aprender Flutter do que implementando uma mágica 
 Guilherme Silveira: Filipe, ontem comprei um pokemon para meu filho. Vou usar o poder da mente para influenciar sua escolha. Você acha que eu comprei um Pikachu, uma Eevee, um Charmander etc?
 Filipe Deschamps: Meu favorito é Eevee. Vamos com Eevee.
 Guilherme Silveira: Vou abrir a galeria, e olha minha foto de ontem, eu com o Eevee.
+
+Vídeo completo: https://www.youtube.com/watch?v=I36seuWUe5s&ab_channel=FilipeDeschamps
 
 Essa mágica costuma ser feita com a narrativa de "poder da mente para influenciar outra pessoa" mas outras narrativas que façam sentido também são interessantes e fortes.
 É importante customizar a mágica e a foto para algo que faça sentido na sua vida pessoal. Pegar Pokemon de exemplo sendo que você nunca se interessou por pokemon mostra claramente que é um outro truque.
