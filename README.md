@@ -12,7 +12,7 @@ Guilherme Silveira: Filipe, ontem comprei um pokemon para meu filho. Vou usar o 
 Filipe Deschamps: Meu favorito é Eevee. Vamos com Eevee.
 Guilherme Silveira: Vou abrir a galeria, e olha minha foto de ontem, eu com o Eevee.
 
-Vídeo completo: https://www.youtube.com/watch?v=I36seuWUe5s&ab_channel=FilipeDeschamps
+[Veja o vídeo completo aqui](https://www.youtube.com/watch?v=I36seuWUe5s&ab_channel=FilipeDeschamps).
 
 Essa mágica costuma ser feita com a narrativa de "poder da mente para influenciar outra pessoa" mas outras narrativas que façam sentido também são interessantes e fortes.
 É importante customizar a mágica e a foto para algo que faça sentido na sua vida pessoal. Pegar Pokemon de exemplo sendo que você nunca se interessou por pokemon mostra claramente que é um outro truque.
@@ -24,7 +24,7 @@ Para descobrir como a mágica é feita, basta analisar o código ou assistir meu
 
 # Fork e compartilhe conosco
 
-Faça seu fork, sua variação com imagens próprias, grave sua apresentação assustando algum amigo, amiga, familia. E compartilhe conosco! Meu twitter é o http://www.twitter.com/guilhermecaelum o Filipe está no https://twitter.com/filipedeschamps?lang=en e a Alura no https://twitter.com/aluraonline?lang=en
+Faça seu fork, sua variação com imagens próprias, grave sua apresentação assustando algum amigo, amiga, familia. E compartilhe conosco, no [meu twitter](http://www.twitter.com/guilhermecaelum), [do Filipe](https://twitter.com/filipedeschamps?lang=en) e [da Alura](https://twitter.com/aluraonline?lang=en).
 
 
 ## Mas pq compartilhar a mágica Guilherme?
